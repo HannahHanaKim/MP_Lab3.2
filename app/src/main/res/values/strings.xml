@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">고객등록</string>
+    <string name="name">성함 </string>
+    <string name="gender">성별 </string>
+    <string name="man">남</string>
+    <string name="woman">여</string>
+
+    <string name="sms">SMS</string>
+    <string name="eMail">e-mail</string>
+    <string name="수신여부">수신여부 </string>
+
+    <string name="register">등록</string>
+</resources>
